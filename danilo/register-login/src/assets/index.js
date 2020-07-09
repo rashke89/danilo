@@ -1,0 +1,1 @@
+export const userDefaultIMg = require('./images/redux.svg');
